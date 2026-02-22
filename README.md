@@ -1,4 +1,4 @@
-# etcpak 2.0 #
+# etcpak 2.1 #
 
 ## The fastest ETC compressor on the planet ##
 
